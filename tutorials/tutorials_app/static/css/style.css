@@ -1,0 +1,34 @@
+/*
+# Licensed to Hortonworks, Inc. under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  Hortonworks, Inc. licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+*/
+
+body { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 85%; }
+
+.steps { padding: 0; margin: 0; }
+.steps li { list-style-type: none; padding: 6px 16px 6px;}
+.steps li:hover { background: #F3F3F3; }
+.sub_list { overflow:hidden; }
+
+.step-block { padding: 10px; }
+.arrows { width: 30px; margin-bottom: -10px; }
+.step-block a { color: #00B5E1; }
+.left { float : left; }
+.right { float : right; }
+.next { margin-right: 6px; }
+.back { margin-left: 6px; }
+.description { padding: 20px; }
+.lesson-title { font-weight: bold; font-size: 120%; }
