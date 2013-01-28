@@ -13,6 +13,8 @@
 ## WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ## See the License for the specific language governing permissions and
 ## limitations under the License.
+##
+## Portions Copyright © 2013 Hortonworks, Inc.
 <%!
   from desktop.lib.django_util import extract_field_data
   from desktop.views import commonheader, commonfooter
