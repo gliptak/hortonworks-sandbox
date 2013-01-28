@@ -15,6 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+# Portions Copyright © 2013 Hortonworks, Inc.
 # Implements simple file system browsing operations.
 #
 # Useful resources:
