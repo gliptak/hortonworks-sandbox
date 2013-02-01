@@ -22,8 +22,6 @@ env
 metastore_db
 VERSION_INFO
 
-# Generated configuration
-desktop/conf/*.ini
 
 # ctags file
 tags
