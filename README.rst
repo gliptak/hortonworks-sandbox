@@ -17,7 +17,7 @@ applications. It features:
 
 On top of that, a SDK is available for creating new apps integrated with Hadoop.
 
-More documentation is available at http://cloudera.github.com/hue/.
+More documentation is available at http://gethue.com/.
 
 
 Getting Started
